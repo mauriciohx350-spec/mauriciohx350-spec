@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Maurício Mendes Tolosa
+Eu sou Maurício Mendes Tolosa
 
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -127,26 +127,16 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 
 ---
 
-> "A tecnologia move o mundo, mas são as pessoas que resolvem os problemas."
-
-⭐ Sempre aberto para aprender novas tecnologias e colaborar em projetos.  CEBRAC — Curitiba, PR
-
-* **Ensino Médio Completo**
-  Colégio Estadual Cívico Militar Chico Mendes — Curitiba, PR
-
----
-
 ## COMPETÊNCIAS TÉCNICAS E HABILIDADES
 
 **Hard Skills — Linguagens e Tecnologias:**
 * **Java** — Programação Orientada a Objetos (POO)
-* **Spring Boot** — [Preencha se já estudou — ex: criação de APIs REST]
-* **PHP** — [Preencha se já estudou — ex: scripts back-end]
-* **Laravel** — [Preencha se já estudou — ex: rotas, Eloquent ORM]
+* **Spring Boot** — 
+* **PHP** — 
+* **Laravel** — 
 * **HTML5 / CSS3** — Estruturação e estilização de páginas web
 * **Lógica de Programação** — Algoritmos, estruturas de dados e fluxogramas
 * **Git / GitHub** — Versionamento de código, commits e pull requests
-* [Preencha — ex: SQL / MySQL, JavaScript, Python]
 
 **Soft Skills:**
 * Trabalho em equipe e colaboração em projetos acadêmicos
@@ -183,7 +173,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 ## INFORMAÇÕES ADICIONAIS
 
 * Disponibilidade integral de horário
-* Interesse em atuar com desenvolvimento **Back-End, Full Stack ou APIs REST**
-* Comprometimento com metodologias ágeis (Scrum / Kanban)
-* Certificações de interesse: [ex: Oracle Java Foundations, AWS Cloud
-  Practitioner, freeCodeCamp Responsive Web Design]
+* Interesse em atuar com
+suporte técnico
+desenvolvimento **Back-End, Full Stack ou APIs REST**
+* Comprometimento com metodologias ágeis 
