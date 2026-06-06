@@ -71,40 +71,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 - PHP e Laravel
 - Desenvolvimento Web Full Stack
 
----
-
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
-
-</div>
-
----
-
-## 📂 Projetos em Desenvolvimento
-
-🚧 Sistema Web para Gestão de Eventos
-
-🚧 Estudos com Spring Boot + MySQL
-
-🚧 Projetos Acadêmicos de Engenharia de Software
-
-🚧 Automações e Scripts Linux
-
+- 
 ---
 
 ## 📫 Contato
@@ -115,12 +82,8 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/maurício-tolosa-66352a320?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -147,33 +110,12 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 
 ---
 
-## PROJETOS ACADÊMICOS E REPOSITÓRIOS
-
-* **[Nome do Projeto]** — [Disciplina na UP | Projeto pessoal] — [Ano]
-  Tecnologias usadas: [ex: Java, MySQL, Spring Boot]
-  [Descreva em 1-2 linhas o que o sistema faz e qual problema resolve.
-  Ex: "Sistema de cadastro de clientes com CRUD completo,
-  desenvolvido em Java com banco de dados MySQL e interface via
-  terminal. Código disponível em: github.com/mauriciomendes/[repo]"]
-
-* **[Nome do Projeto]** — [Disciplina na UP | Projeto pessoal] — [Ano]
-  Tecnologias usadas: [ex: HTML5, CSS3, JavaScript]
-  [Descreva em 1-2 linhas o que o projeto entrega.
-  Ex: "Landing page responsiva desenvolvida com HTML5, CSS3 e
-  JavaScript puro, com foco em UX e boas práticas de acessibilidade.
-  Disponível em: github.com/mauriciomendes/[repo]"]
-
-* **[Desafio de Código / Exercícios Online]** — [Plataforma] — [Ano]
-  [Ex: "Resolução de desafios de lógica e algoritmos na plataforma
-  HackerRank / Beecrowd / LeetCode — foco em estruturas de dados e
-  otimização de código."]
-
----
-
 ## INFORMAÇÕES ADICIONAIS
 
 * Disponibilidade integral de horário
 * Interesse em atuar com
+  
 suporte técnico
 desenvolvimento **Back-End, Full Stack ou APIs REST**
+
 * Comprometimento com metodologias ágeis 
