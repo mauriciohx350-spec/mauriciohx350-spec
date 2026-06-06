@@ -70,8 +70,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 - Java e Spring Boot
 - PHP e Laravel
 - Desenvolvimento Web Full Stack
-
-- 
+ 
 ---
 
 ## 📫 Contato
@@ -115,7 +114,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 * Disponibilidade integral de horário
 * Interesse em atuar com
   
-suporte técnico
+suporte técnico ou
 desenvolvimento **Back-End, Full Stack ou APIs REST**
 
 * Comprometimento com metodologias ágeis 
