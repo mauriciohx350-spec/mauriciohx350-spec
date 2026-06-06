@@ -1,29 +1,135 @@
-# MAURÍCIO MENDES
+# 👋 Olá, eu sou Maurício Mendes Tolosa
 
-(41) 98470-1212 | mauricio.hx350@gmail.com
-LinkedIn: [adicione seu perfil] | GitHub: [adicione seu perfil]
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
+🎓 Estudante de Engenharia de Software na Universidade Positivo
 
-## OBJETIVO PROFISSIONAL
+💻 Focado em Suporte Técnico, Help Desk, Service Desk e Infraestrutura
 
-Estudante de **Engenharia de Software** em busca de oportunidade como
-**Estagiário ou Desenvolvedor Júnior (Full Stack / Back-End)**. Interesse
-em construir soluções de software robustas e escaláveis, com base acadêmica
-em linguagens orientadas a objetos, lógica de programação e boas práticas
-de desenvolvimento. Comprometido com aprendizado contínuo e evolução técnica
-constante dentro de um time de desenvolvimento ágil.
+🚀 Em constante aprendizado nas áreas de Linux, Redes, Desenvolvimento Web e Banco de Dados
+
+📍 Curitiba - Paraná, Brasil
 
 ---
 
-## FORMAÇÃO ACADÊMICA
+## 👨‍💻 Sobre Mim
 
-* **Bacharelado em Engenharia de Software** *(em andamento — noturno)*
-  Universidade Positivo (UP) — Curitiba, PR
-  Previsão de conclusão: [Ano]
+Sou estudante de Engenharia de Software apaixonado por tecnologia e resolução de problemas.
 
-* **Curso de Administração e Informática** *(em andamento — aos sábados)*
-  CEBRAC — Curitiba, PR
+Atualmente busco oportunidades como:
+
+- 🎯 Estagiário em TI
+- 🎯 Auxiliar de Suporte Técnico
+- 🎯 Help Desk
+- 🎯 Service Desk
+- 🎯 Suporte N1/N2
+
+Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender usuários com clareza e eficiência.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Sistemas Operacionais
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu" />
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### Desenvolvimento
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+---
+
+## 📚 Atualmente Estudando
+
+- Engenharia de Software
+- Linux e Administração de Sistemas
+- Redes de Computadores
+- Docker
+- Banco de Dados MySQL
+- Java e Spring Boot
+- PHP e Laravel
+- Desenvolvimento Web Full Stack
+
+---
+
+## 📈 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight)
+
+</div>
+
+---
+
+## 📂 Projetos em Desenvolvimento
+
+🚧 Sistema Web para Gestão de Eventos
+
+🚧 Estudos com Spring Boot + MySQL
+
+🚧 Projetos Acadêmicos de Engenharia de Software
+
+🚧 Automações e Scripts Linux
+
+---
+
+## 📫 Contato
+
+<p align="left">
+
+<a href="mailto:mauricio.hx350@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+> "A tecnologia move o mundo, mas são as pessoas que resolvem os problemas."
+
+⭐ Sempre aberto para aprender novas tecnologias e colaborar em projetos.  CEBRAC — Curitiba, PR
 
 * **Ensino Médio Completo**
   Colégio Estadual Cívico Militar Chico Mendes — Curitiba, PR
