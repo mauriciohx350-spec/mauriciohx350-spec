@@ -4,11 +4,12 @@ Eu sou Maurício Mendes Tolosa
 
 🎓 Estudante de Engenharia de Software na Universidade Positivo
 
-💻 Focado em Suporte Técnico, Help Desk, Service Desk e Infraestrutura
+💻 Focado em Suporte Técnico, Help Desk, Service Desk, Infraestrutura, desenvolvimento de software
 
 🚀 Em constante aprendizado nas áreas de Linux, Redes, Desenvolvimento Web e Banco de Dados
 
 📍 Curitiba - Paraná, Brasil
+
 
 ---
 
