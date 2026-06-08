@@ -25,6 +25,7 @@ Atualmente busco oportunidades como:
 - Service Desk
 - Suporte N1/N2
 - desenvolvedor
+  
 Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender usuários com clareza e eficiência.
 
 ---
