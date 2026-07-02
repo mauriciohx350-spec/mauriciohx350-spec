@@ -30,7 +30,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Sistemas Operacionais
 
@@ -62,7 +62,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 
 ---
 
-## 📚 Atualmente Estudando
+## Atualmente Estudando
 
 - Engenharia de Software
 - Linux e Administração de Sistemas
@@ -75,7 +75,7 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
  
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
 
