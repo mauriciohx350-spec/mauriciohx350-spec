@@ -116,7 +116,6 @@ Tenho facilidade em aprender novas tecnologias, trabalhar em equipe e atender us
 * Disponibilidade integral de horário
 * Interesse em atuar com
   
-suporte técnico ou
-desenvolvimento **Back-End, Full Stack ou APIs REST**
+* suporte técnico ou desenvolvimento **Back-End, Full Stack ou APIs REST**
 
 * Comprometimento com metodologias ágeis 
