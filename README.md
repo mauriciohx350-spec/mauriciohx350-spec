@@ -24,7 +24,7 @@ Curitiba, Paraná, Brasil
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software na Universidade Positivo e tenho interesse no desenvolvimento de aplicações web completas, desde a interface do usuário até a lógica de negócio e a persistência de dados.
+Sou estudante de Engenharia de Software na Universidade Positivo e tenho interesse no desenvolvimento web, aplicativos mobiles e sistemas empresariais de forma completa, desde a interface do usuário até a lógica de negócio e a persistência de dados.
 
 Atualmente, estou desenvolvendo meus conhecimentos em tecnologias Front-End e Back-End, com foco em Java, Spring Boot, JavaScript e bancos de dados relacionais.
 
