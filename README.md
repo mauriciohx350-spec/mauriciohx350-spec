@@ -95,14 +95,6 @@ Controle de versão, ambientes de desenvolvimento, containers e utilização de 
 
 ## Projetos em destaque
 
-### Java Aprendiz
-
-Repositório de estudos e exercícios práticos em Java, com foco nos fundamentos da linguagem, lógica de programação e programação orientada a objetos.
-
-**Tecnologias:** Java
-
-[Ver projeto no GitHub](https://github.com/mauriciohx350-spec/java-aprendiz)
-
 ### Agente Mestre RPG
 
 Projeto de automação com temática de RPG, utilizando fluxos de execução e integração com inteligência artificial para gerar narrativas e processar resultados de ações dentro do jogo.
