@@ -6,9 +6,9 @@
   <a href="https://github.com/mauriciohx350-spec">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/maurício-tolosa-66352a320/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/mauriciotolosa6/">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
   <a href="mailto:mauricio.hx350@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
