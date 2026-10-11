@@ -103,22 +103,6 @@ Projeto de automação com temática de RPG, utilizando fluxos de execução e i
 
 [Ver projeto no GitHub](https://github.com/mauriciohx350-spec/Agente-mestre-RPG)
 
-## GitHub analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciohx350-spec&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciohx350-spec&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas"/>
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciohx350-spec&theme=github-compact&hide_border=true&area=true" alt="Atividade de contribuições no GitHub"/>
-
-</div>
-
 ## Atualmente estudando
 
 - Desenvolvimento de interfaces com HTML, CSS e JavaScript
